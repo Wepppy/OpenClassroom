@@ -1,2 +1,0 @@
-# OpenClassroom
-Changement extension readme
